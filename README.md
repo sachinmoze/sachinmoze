@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sachinmoze
-- 👀 I’m interested in Python, python AI, Image processing and machine learning
-- 🌱 I’m currently learning AI and Ne04j graph AI
-- 💞️ I’m looking to collaborate on python projects
+- 👀 I’m AI,Machine Learning & Python Developer
+- 🌱 I’ve Experience of 5+ Years in Python Developement and AI Developement
+- 💞️ I’m looking to collaborate on python,AI and Machine Learning projects
 - 📫 How to reach me sachinmoze@gmail.com
 
 <!---
