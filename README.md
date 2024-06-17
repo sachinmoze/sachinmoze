@@ -1,6 +1,12 @@
  # 💫 About Me:
-I am an AI, Machine Learning, and Python Developer with over 5.6 years of experience.<br>I hold an MS in Artificial Intelligence.<br>I have extensive experience in Python development and AI development.<br>I am looking to collaborate on Python, AI, and Machine Learning projects.<br>Currently, I am learning and working on AI projects, including Generative AI.<br>Additionally, I have experience in front-end and app development.
-
+- 👋 Hi, I’m @sachinmoze
+- 👀 I am an AI, Machine Learning, and Python Developer with over 5.6 years of experience.
+- 🌱 I hold an MS in Artificial Intelligence.
+- I have extensive experience in Python development and AI development.
+- 💞️ I am looking to collaborate on Python, AI, and Machine Learning projects.
+- Currently, I am learning and working on AI projects, including Generative AI.<br>Additionally, I have experience in front-end and app development.
+- 📫 How to reach me sachinmoze@gmail.com
+- Check my Porfolio https://sachinmoze.onrender.com
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sachinmoze) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sachinmoze) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sachinmoze) 
@@ -13,9 +19,6 @@ I am an AI, Machine Learning, and Python Developer with over 5.6 years of experi
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinmoze&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sachinmoze&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
 <!---
 sachinmoze/sachinmoze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
