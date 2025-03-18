@@ -6,7 +6,7 @@
 - 💞️ I am looking to collaborate on Python, AI, and Machine Learning projects.
 - Currently, I am learning and working on AI projects, including Generative AI.<br>Additionally, I have experience in front-end and app development.
 - 📫 How to reach me sachinmoze@gmail.com
-- Check my Porfolio https://sachinmoze.onrender.com
+- Check my Porfolio https://sachinmoze.com
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sachinmoze) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sachinmoze) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sachinmoze) 
