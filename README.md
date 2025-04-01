@@ -1,6 +1,6 @@
  # 💫 About Me:
 - 👋 Hi, I’m @sachinmoze
-- 👀 I am an AI, Machine Learning, and Python Developer with over 5.6 years of experience.
+- 👀 I am an AI, Machine Learning, and Python Developer with 6 years of experience.
 - 🌱 I hold MS in Artificial Intelligence.
 - I have extensive experience in Python development and AI development.
 - 💞️ I am looking to collaborate on Python, AI, and Machine Learning projects.
