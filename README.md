@@ -1,12 +1,26 @@
- # 💫 About Me:
-- 👋 Hi, I’m @sachinmoze
-- 👀 I am an AI, Machine Learning, and Python Developer with 6 years of experience.
-- 🌱 I hold MS in Artificial Intelligence.
-- I have extensive experience in Python development and AI development.
-- 💞️ I am looking to collaborate on Python, AI, and Machine Learning projects.
-- Currently, I am learning and working on AI projects, including Generative AI.<br>Additionally, I have experience in front-end and app development.
-- 📫 How to reach me sachinmoze@gmail.com
-- Check my Porfolio https://sachinmoze.com
+### 👋 Hello there! I’m Sachin Moze
+
+🚀 I'm an AI & Machine Learning Engineer with **6+ years of experience** building intelligent systems and scalable Python applications.  
+🎓 I hold a **Master’s degree in Artificial Intelligence** and thrive at the intersection of data, code, and creativity.
+
+🧠 My core strengths include:
+- Python Development 🐍  
+- Deep Learning & Generative AI 🤖  
+- End-to-End Machine Learning Pipelines 📈  
+- Frontend & App Development (React, Flutter) 🌐📱
+
+🔍 I’m passionate about solving real-world problems using AI and always eager to collaborate on exciting projects in:
+- **AI & ML**
+- **Python**
+- **Generative AI**
+- **Data-driven applications**
+
+🌱 Currently exploring the latest in Generative AI and constantly learning to stay ahead of the curve.
+
+📫 **Let’s connect**: [sachinmoze@gmail.com](mailto:sachinmoze@gmail.com)  
+🌐 **Portfolio**: [sachinmoze.com](https://sachinmoze.com)  
+🤝 Open to freelance, contract, or collaborative work!
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sachinmoze) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sachinmoze) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sachinmoze) 
